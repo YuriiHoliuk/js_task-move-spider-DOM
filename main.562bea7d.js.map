@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":["document","addEventListener","e"],"mappings":";AAAA,aAEAA,SAASC,iBAAiB,QAAS,SAAAC","file":"main.562bea7d.js","sourceRoot":"../src","sourcesContent":["'use strict';\n\ndocument.addEventListener('click', e => {\n  // write code here\n});\n"]}
